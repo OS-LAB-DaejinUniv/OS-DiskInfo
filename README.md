@@ -6,4 +6,7 @@ OS-DiskInfo 스크립트를 다운로드하고 실행 가능하도록 설정하�
 ```bash
 sudo curl -o /usr/local/bin/OS-diskinfo https://raw.githubusercontent.com/OS-LAB-DaejinUniv/OS-DiskInfo/main/OS-diskinfo.sh && sudo chmod +x /usr/local/bin/OS-diskinfo
 ```
-
+이후 실행하는 방법은
+```bash
+OS-diskinfo
+```
